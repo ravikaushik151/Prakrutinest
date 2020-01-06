@@ -1,0 +1,472 @@
+
+body {font-size: 16px;}
+
+
+.image-box {color: #fff; font-size: 16px; margin-bottom: 20px;}
+.image-box img {width: 60%;}
+.gallery img {margin-bottom: 20px;}
+.intro-section h2 {font-size: 40px; font-weight: bold;}
+.location-list {padding-bottom: 25px; padding-top: 10px;}
+.info-box {padding-top: 30px;}
+.logo-img {padding: 10px; background: rgba(0,0,0,0.5); border-radius: 8px;}
+
+
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+.home-our-project .tabs-box .tab-buttons{
+	 display: none !important;
+}
+.home-our-project .active-tab h3{
+	display: none;
+}
+.easy-by-emar{
+	padding-right: 80px;
+}
+.home-our-advantage .owl-item .slide-item{
+	 min-height: 26rem;
+}
+.project-top-section .sec-title{
+	margin-bottom: 0;
+}
+.project-top-section .five-col-theme {
+    display: none;
+}
+
+
+
+.project-tab-section .properties-section {
+    padding-bottom: 0;
+}
+.project-tab-section .vc_tta-title-text {
+	 padding: 1rem 7rem;
+}
+.project-tab-section .vc_tta-panels{
+	background: #F2F3FA !important;
+}
+.how-services-work .count{
+	font-size: 13px !important;
+	font-weight: 400 !important;
+	min-height: 16rem;
+	padding: 16px;
+}
+.how-services-work .five-col-theme .column {
+    width: 25%;
+}
+.prime-location-image .wpb_single_image img {
+    height: 43rem;
+    object-fit: fill;
+}
+
+
+.home-our-project .tabs-box .tab-buttons{
+	 display: none !important;
+}
+.home-our-project .active-tab h3{
+	display: none;
+}
+.easy-by-emar{
+	padding-right: 80px;
+}
+.home-our-advantage .owl-item .slide-item{
+	 min-height: 26rem;
+}
+.project-tab-section .properties-section {
+    padding-bottom: 0;
+}
+.project-tab-section .vc_tta-title-text {
+	 padding: 1rem 7rem;
+}
+.project-tab-section .vc_tta-panels{
+	background: #F2F3FA !important;
+}
+.project-tab-section .flexslider .slides img{
+	height: 400px;
+}
+.project-tab-section .wpb_content_element{
+	    margin-bottom: 0px;
+}
+.project-tab-section .vc_tta-panel-body .wpb_single_image img{
+	    height: 200px;
+    object-fit: fill;
+}
+.how-services-work .properties-section{
+	background: #F2F3FA;
+}
+.how-services-work .count{
+	font-size: 13px !important;
+	font-weight: 400 !important;
+	min-height: 16rem;
+	padding: 16px;
+}
+.how-services-work .five-col-theme .column {
+    width: 25%;
+}
+.prime-location-image .wpb_single_image img {
+    height: 43rem;
+    object-fit: fill;
+}
+.prime-location-image .full-image-box {
+    display: none;
+}
+.prime-location-image .sec-title {
+    display: none;
+}
+.prime-location-image .about-section {
+    padding: 0px 0px 30px !important;
+}
+@media (min-width: 992px){
+	.prime-location-image .col-md-4 {
+    width: 25%;
+}
+}
+
+
+
+.project-price-section .testimonials-section{
+	padding: 0 !important;
+}
+.project-price-section .small-separator{
+	display: none;
+}
+.project-price-section .testimonials-section:before {
+    background: #F2F3FA;
+}
+.project-price-section .testimonials-section .testimonials-slider .slide-item {
+    min-height: 19rem;
+}
+.available-unit-title .properties-section{
+	padding: 0;
+}
+.available-unit-title .sec-title {
+    margin: 0 auto 0;
+}
+    
+.available-units .properties-section {
+    padding-top: 0;
+}
+.available-units .sec-title {
+    display: none;
+}
+.available-units .five-col-theme .column {
+    width: 50%;
+    margin-bottom: 0;
+}
+
+.our-project-detail .properties-section {
+    padding: 0;
+}
+.our-project-detail .sec-title {
+    display: none;
+}
+.our-project-detail .five-col-theme .column {
+   width: 25%;
+	 margin-bottom: 0;
+}
+
+
+
+
+
+.popupaoc-button {
+        padding: 12px 20px;
+    background: #3c9bb9 !important;
+    color: #fff;
+    display: inline-block;
+    text-decoration: none !important;
+    text-transform: capitalize;
+    border-radius: 5px;
+}
+
+.paoc-popup-modal-cnt{
+	 padding: 0px 40px 10px 40px;
+}
+.paoc-popup-modal-cnt .wpcf7-form-control {
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    display: block;
+    width: 100%;
+    line-height: 24px;
+    padding: 9px 15px;
+    border: 1px solid #d5d5d5;
+    font-size: 14px;
+    color: #000;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+	  font-weight: 500;
+}
+.paoc-popup-modal-cnt .lable-name{
+	width: 100%
+}
+.paoc-popup-modal-cnt .wpcf7-submit{
+	border-color: #3c9bb9 !important;
+    background-color: #3c9bb9 !important;
+    color: #fff;
+    font-weight: 500;
+}
+.paoc-popup-modal{
+	width: 45%;
+	margin-top: 50px;
+}
+.paoc-popup-modal-cnt .wpcf7{
+	 margin-top: 35px;
+}
+div.wpcf7-validation-errors, div.wpcf7-acceptance-missing {
+    border-color: #3c9bb9 !important;
+}
+
+
+.curve-top .view-more a{
+	padding:0 !important;
+}
+.curve-right .view-more a{
+	padding:0 !important;
+}
+.vc_btn3.vc_btn3-color-peacoc.vc_btn3-style-modern {
+    border-color: #3c9bb9;
+    background-color: #3c9bb9;
+}
+
+
+@media only screen and (max-width: 599px){
+.how-services-work .five-col-theme .column {
+    width: 100%;
+		font-weight: 400;
+}
+}
+
+.download-btn a{
+	font-size: 14px;
+	border: 2px solid #3c9bb9 !important;
+	    transition: all 500ms ease 0s;
+	margin: 0 0.5rem;
+}
+.download-btn a:hover{
+    border: 2px solid #3c9bb9 !important;
+    background: #fff !important;
+    color: #3c9bb9 !important;
+}
+.project-facility-sec .properties-section {
+    padding: 0;
+	background: transparent;
+}
+.project-facility-sec .sec-title .separator {
+    display: none;
+}
+.project-facility-sec .five-col-theme .column {
+    width: 50%;
+}
+.easy-offer .five-col-theme .column .inner-box h3 {
+    font-size: 24px;
+}
+
+.ease-opportunity-img .wpb_single_image img {
+    height: 24rem;
+}
+.home-about-emaar .info-box .theme-btn{
+	display:none;
+}
+.home-about-emaar .agent-section{
+	padding-bottom:0;
+}
+
+.whatsapp-s8 .mdstyle8 .btn{
+	font-size: 1.4rem;
+	height: 40px;
+    line-height: 40px;
+    border-radius: 3px;
+}
+.whatsapp-s8 .mdstyle8 .btn i{
+	font-size: 2rem;
+}
+
+.whatsapp-s8-1 .mdstyle8 .btn{
+	  border-radius: 5px;
+    height: 50px;
+    line-height: 50px;
+	  box-shadow: none;
+	  margin-top: -0.1rem;
+}
+.whatsapp-s8-1 .mdstyle8 .btn:hover{
+	 box-shadow: none;
+}
+.whatsapp-s8-1 .mdstyle8 .btn:hover .ccw-s8-span-sc{
+	color: rgb(60, 155, 185) !important;
+}
+.whatsapp-s8-1 .mdstyle8 .btn:hover i{
+	color: rgb(60, 155, 185) !important;
+}
+.slide-form{
+	  width: 26rem;
+	  height: auto;
+    background: #00000080 !important;
+    padding: 4rem 0rem 0rem !important;
+    border-radius: 2px;
+	    text-align: center !important;
+	    overflow: hidden;
+}
+.slide-form .f-title{
+	    font-size: 1.75rem !important;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600 !important;
+    text-align: center !important;
+    line-height: 1.1 !important;
+    padding: 0 !important;
+}
+.slide-form .f-tagline{
+	    font-size: 1.1rem !important;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 0 !important;
+    margin: 1.5rem auto !important;
+    text-align: center !important;
+}
+.slide-form .form-cont{
+	  padding: 0 1rem;
+}
+.slide-form .wpcf7-form-control{
+	      font-family: 'Montserrat', sans-serif;
+    position: relative;
+    display: block;
+    width: 86%;
+    margin: auto !important;
+    line-height: 24px !important;
+    padding: 5px 12px !important;
+    border: 1px solid #d5d5d5;
+    font-size: 14px !important;
+    color: #000;
+    border-radius: 3px !important;
+    -webkit-border-radius: 3px !important;
+    -ms-border-radius: 3px !important;
+    font-weight: 500 !important;
+	text-align: left !important;
+}
+.slide-form .wpcf7-submit {
+        border-color: #3c9bb9 !important;
+    background-color: #3c9bb9 !important;
+    color: #fff;
+    font-weight: 500 !important;
+    text-align: center !important;
+    text-transform: uppercase;
+    font-size: 1.2rem !important;
+}
+.slide-form .wpcf7-response-output {
+    font-size: 1.1rem !important;
+    margin: 0 !important;
+    color: #ffffff;
+    padding: 1rem !important;
+}
+
+.slide-form span.wpcf7-not-valid-tip {
+    color: #f00;
+    font-size: 1rem !important;
+    font-weight: normal !important;
+    display: block;
+    text-align: left !important;
+	margin-left: 2rem !important;
+}
+.s-discount{
+	font-size: 1.25rem !important;
+    line-height: 1.5 !important;
+}
+.main-discount{
+	font-size: 1.15rem !important;
+    line-height: 1.5 !important;
+}
+.curve-right .view-more .popupaoc-button{
+	font-size: 1.25rem !important;
+}
+.curve-left .popupaoc-button{
+	font-size: 1.25rem !important;
+}
+.curve-top .view-more .popupaoc-button {
+	font-size: 2rem !important;
+}
+
+.copyright{
+	display:none;
+}
+
+
+
+.welcom-emaar{
+	margin-left:-75px;
+	margin-top:-25px;
+}
+.top-btn-section{
+	  width: auto;
+    margin: auto;
+    text-align: center;
+}
+.top-btn-section .whatsapp-s8-1{
+	  display: inline-block;
+}
+.top-btn-section a{
+	margin: 0 1rem;
+}
+.our-project-detail .download-btn .popupaoc-button{
+	margin-left: 0 !important;
+}
+@media (max-width: 767px) {
+    .header-style-two .header-top .info li {
+    padding: 5px 35px;
+		}
+	  .welcom-emaar{
+			margin-left:32px;
+		}
+	.our-project-detail .five-col-theme .column {
+    width: 100%;
+    margin-bottom: 30px;
+	}
+	.download-btn a {
+    margin-bottom: 1rem;
+    display: block;
+    text-align: center;
+	}
+	.paoc-popup-modal {
+    width: 90%;
+		margin-top: 20px;
+	}
+	.top-btn-section .popupaoc-button{
+		width: fit-content;
+    margin: auto;
+	}
+	.available-units .five-col-theme .column {
+    width: 100%;
+    margin-bottom: 1.5rem;
+	}
+	.project-facility-sec .five-col-theme .column {
+    width: 100%;
+  }
+	.main-menu {
+    padding: 18px 0px 18px;
+		z-index: 0;
+  }
+	.main-header .logo, .header-style-two .header-lower .logo {
+    width: 115px;
+		padding-left: 0;
+   }
+	.header-style-two .header-lower .logo{
+		max-height: 75px;
+		z-index: 99;
+	}
+	.header-style-two .header-lower .logo img {
+    height: 75px !important;
+}
+
+}

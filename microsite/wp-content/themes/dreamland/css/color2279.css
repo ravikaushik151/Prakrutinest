@@ -1,0 +1,175 @@
+
+.btn-style-one,
+.scroll-to-top:hover,
+.header-style-one .logo:before,
+.header-style-one .main-menu .navigation > li > ul > li:hover > a,
+.header-style-two .header-lower .logo,
+.header-style-two .main-menu .navigation > li > a:before,
+.main-menu .navbar-collapse > ul > li.current-menu-parent > a:before,
+.header-style-two .main-menu .navigation > li > ul > li:hover > a,
+.header-style-two .main-menu .navigation > li > ul > li  > ul > li:hover > a,
+.main-slider .bg-grey .view-more,
+.services-outer .column .inner-box .icon-left .icon,
+.tabs-box .tab-buttons .tab-btn:hover,
+.tabs-box .tab-buttons .tab-btn.active-btn,
+.gallery-section .filter-tabs li:hover,
+.gallery-section .filter-tabs li.active,
+.intro-section,
+.footer-content .social-links a:hover,
+.testimonial-slider .bx-controls .bx-prev:hover:after,
+.testimonial-slider .bx-controls .bx-next:hover:after,
+.video-tour-section .ms-skin-default .ms-nav-prev:hover:after,
+.video-tour-section .ms-skin-default .ms-nav-next:hover:after,
+.blog-container .blog-post .image-box .post-options .heart-icon,
+.blog-container .blog-post .image-box .post-options .plus-icon,
+.sidebar-page .group-title:after,
+.comment-form button,
+.sidebar .search-form button,
+.sidebar .popular-tags a:hover,
+.pager-outer .pagination a:hover,
+.pager-outer .pagination .active a,
+.contact-form input[type="submit"],
+.tagcloud a:hover,
+.pagination > li:first-child > a:hover, .pagination > li:first-child > span:hover,.pagination > li > span:hover,
+.pagination > li > span,
+.agent-section .bordered-title::after,
+.contact-section .contact-info li .icon,
+.info-section .contact-info .column .icon,
+.main-menu .navbar-header .navbar-toggle .icon-bar
+{
+
+	background-color: #bd1b1b !important;
+}
+
+a,
+.btn-style-one:hover,
+.btn-style-two:hover,
+.theme_color,
+.scroll-to-top,
+.header-style-one .info-box li a:hover,
+.header-style-one .info-box li .icon,
+.header-style-one .main-menu .navigation > li:hover > a,
+.header-style-one .main-menu .navigation > li.current > a,
+.header-style-one .main-menu .navigation > li.current-menu-item > a,
+.header-style-one .main-menu .navigation > li > ul:before,
+.header-style-two .main-menu .navigation > li:hover > a,
+.header-style-two .main-menu .navigation > li.current > a,
+.header-style-two .main-menu .navigation > li.current-menu-item > a,
+.main-menu .navbar-collapse > ul > li.current-menu-parent > a,
+.header-style-two .main-menu .navigation > li > ul > li.dropdown > a:after,
+.main-slider .bg-white .price,
+.main-slider .bg-grey .price,
+.sec-title h2 strong,
+.sec-title h2 .light,
+.three-col-theme .column .inner-box .icon-left .icon,
+.five-col-theme .column .inner-box .icon,
+.styled-list li:before,
+.gallery-section .image-box .zoom-btn,
+.intro-section.style-two .btn-style-two,
+.agent-section .info-box li a:hover,
+.agent-section .info-box li .icon,
+.blog-section .blog-post .post-title a:hover,
+.blog-section .blog-post .read-more:hover,
+.video-tour-section .ms-skin-default .ms-nav-prev:after,
+.blog-container .blog-post h3 a:hover,
+.blog-container .blog-post .post-info a:hover,
+.sidebar-page .comments-area .reply-btn,
+.comment-form .form-group .icon-box label,
+.sidebar .recent-posts .post a,
+.sidebar .recent-posts .post a:hover,
+.sidebar .list li .icon,
+.sidebar .list li a:hover,
+.contact-form input[type="submit"]:hover,
+.comment-reply-link,
+.widget ul li a:hover,
+.widget ul li:before,
+.sidebar .widget_bunch_recent_post_with_image .post a:hover,
+.header-style-two .header-top .info li a:hover,
+.header-style-two .header-top .social-links a:hover,
+.blog-container .blog-post .post-info.lower i,
+.psocial li .stLarge:before,
+.video-tour-section .ms-skin-default .ms-nav-next::after,
+.scroll-to-top
+{
+	color: #bd1b1b;
+}
+
+.btn-style-one,
+.btn-style-one:hover,
+.scroll-to-top:hover,
+.header-style-one .main-menu .navigation > li > ul,
+.header-style-two .main-menu .navigation > li > ul,
+.header-style-two .main-menu .navigation > li > ul > li  > ul,
+.gallery-section .filter-tabs li:hover,
+.gallery-section .filter-tabs li.active,
+.intro-section.style-two p,
+.intro-section.style-two .btn-style-two,
+.bordered-title,
+.testimonials-section .testimonials-slider .slide-item:hover,
+.testimonials-section .testimonials-slider .slide-item:hover .image-box,
+.testimonials-section .column-carousel.three-column .owl-dot span:hover,
+.testimonials-section .column-carousel.three-column .owl-dot.active span,
+.testimonials-section.theme-two .column-carousel.three-column .owl-dot span,
+.contact-form .form-group input[type="text"]:focus,
+.contact-form .form-group input[type="email"]:focus,
+.contact-form .form-group input[type="url"]:focus,
+.contact-form .form-group input[type="password"]:focus,
+.contact-form .form-group select:focus,
+.contact-form .form-group textarea:focus,
+.blog-section .blog-post .post-title a:hover,
+.blog-section .blog-post .read-more:hover,
+.testimonial-slider .slide-info .author-thumb,
+.sidebar .search-form input[type="search"]:focus,
+.sidebar .search-form input[type="text"]:focus,
+.sidebar .popular-tags a:hover,
+.pager-outer .pagination a,
+.contact-form input[type="submit"],
+.contact-form input[type="submit"]:hover,
+.tagcloud a:hover,
+.pagination > li:first-child > a, .pagination > li:first-child > span,
+.paginate-links > span,
+.paginate-links a,
+.main-menu .navbar-header .navbar-toggle
+{
+	border-color: #bd1b1b !important;
+}
+
+.gallery-section .image-box .zoom-btn
+{
+	outline-color: #bd1b1b !important;
+}
+
+.sidebar-page .comments-area .reply-btn,
+.sidebar .sidebar-title:after,
+.comment-reply-link
+{
+	border-bottom-color: #bd1b1b !important;
+}
+.sidebar .sidebar-title:before{
+	border-top-color: #bd1b1b !important;
+}
+
+.main-slider .bg-green{
+	background-color: #bd1b1b !important;
+	opacity: 0.6;
+}
+
+.main-slider .bg-green.curve-right .curve{
+	border-left-color: #bd1b1b;
+	opacity: 0.6;
+}
+
+.btn-style-one:hover,
+.btn-style-two:hover,
+.contact-form input[type="submit"]:hover{
+	background-color: #ffffff !important;
+	color:#bd1b1b !important;
+}
+
+@media only screen and (max-width: 767px){
+.main-menu .navbar-collapse > .navigation > li > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a{
+	background-color: #bd1b1b !important;
+}
+}
